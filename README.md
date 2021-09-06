@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shina from Google's staffing team
 - 👀 I’m interested in recruiting Software Engineers!
-- 📫 How to reach me yinghuashina@google.com
+- 📫 How to reach me yinghuashina@google.com / https://www.linkedin.com/in/shinaoyh/
 
 <!---
 Shinaoyh/Shinaoyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
